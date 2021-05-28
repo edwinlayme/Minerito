@@ -1,0 +1,1 @@
+export const urlApiUser ="https://mocki.io/v1/233bcbb5-2dd9-4edb-b1cb-2633d0beab5f";

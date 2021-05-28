@@ -1,0 +1,17 @@
+[
+    {
+        "idproveedor": 801,
+        "nombreprov": "Pepe Rocha",
+        "direccion": "Blanco Galindo/ Soruco No. 38"
+    },
+    {
+        "idproveedor": 802,
+        "nombreprov": "Rayner Limachi",
+        "direccion": "Brasil/Ayacucho No. 983"
+    },
+    {
+        "idproveedor": 803,
+        "nombreprov": "Jhon Travolta",
+        "direccion": "Circunvalación/Dehene No. 1320"
+    }
+]

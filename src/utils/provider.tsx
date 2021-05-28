@@ -1,0 +1,1 @@
+export const urlApiProveedor ="https://mocki.io/v1/c2f47f46-3110-4daf-8e8a-052463806a04";

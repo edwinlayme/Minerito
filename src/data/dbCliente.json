@@ -1,0 +1,32 @@
+[
+    {
+        "idcliente": 2031,
+        "nombre": "Ever",
+        "apellido": "Espinoza",
+        "nitcliente": 45312313021
+    },
+    {
+        "idcliente": 2033,
+        "nombre": "Jorge",
+        "apellido": "Herrera",
+        "nitcliente": 5896123019
+    },
+    {
+        "idcliente": 2035,
+        "nombre": "Juan",
+        "apellido": "Lopez",
+        "nitcliente": 68971472
+    },
+    {
+        "idcliente": 2036,
+        "nombre": "Pedro",
+        "apellido": "Rivas",
+        "nitcliente": 4233869020
+    },
+    {
+        "idcliente": 2045,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "nitcliente": 75126685
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "idmaterial": 3001,
+        "nombrematerial": "Oro",
+        "tipo": "Amarillo",
+        "idproveedor": 801
+    },
+    {
+        "idmaterial": 3002,
+        "nombrematerial": "Oro",
+        "tipo": "Blanco",
+        "idproveedor": 802
+    },
+    {
+        "idmaterial": 3003,
+        "nombrematerial": "Oro",
+        "tipo": "Rodinado",
+        "idproveedor": 803
+    }
+]

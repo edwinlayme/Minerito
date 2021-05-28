@@ -1,0 +1,32 @@
+[
+    {
+        "idventa": 10045,
+        "fechaventa": "14/05/2021",
+        "monto": 480,
+        "idcliente": 2031
+    },
+    {
+        "idventa": 10032,
+        "fechaventa": "03/02/2021",
+        "monto": 5003,
+        "idcliente": 2033
+    },
+    {
+        "idventa": 10020,
+        "fechaventa": "13/12/2020",
+        "monto": 220,
+        "idcliente": 2035
+    },
+    {
+        "idventa": 10046,
+        "fechaventa": "05/03/2021",
+        "monto": 1500,
+        "idcliente": 2036
+    },
+    {
+        "idventa": 10012,
+        "fecha": "10/01/2020",
+        "monto": 530,
+        "idcliente": 2045
+    }
+]
